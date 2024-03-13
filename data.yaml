@@ -1,0 +1,302 @@
+- author:
+    name:
+      zh: 爱因斯坦
+      en:
+  quotes:
+    - tags: [education]
+      zh: 教育的价值在于培训思维, 而不在于传授事实。
+      en: The value of a college education is not the learning of many facts but the training of the mind to think.
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Linus Torvalds (Linux之父)
+      en: Linus Torvalds
+  quotes:
+    - tags: [programming]
+      zh: 软件就像'性', 免费的时候更好!
+      en: Software is like sex; it's better when it's free.
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Fred Brooks (图灵奖得主 《人月神话》作者)
+      en: Fred Brooks
+  quotes:
+    - tags: [programming]
+      zh: 没有银弹(万能药)
+      en: NO silverbullet
+    - tags: [programming]
+      zh: 在进度落后的项目中增加人手只会导致进度更加落后
+      en:
+- author:
+    name:
+      zh: Edsger Dijkstra (图灵奖得主)
+      en: Edsger Dijkstra
+  quotes:
+    - tags: [programmingprogramming]
+      zh: 编程的艺术就是处理复杂性的艺术
+      en:
+    - tags: [programmingprogramming]
+      zh: 简单是可靠的先决条件
+      en: Simplicity is prerequisite for reliability.
+    - tags: [programmingprogramming]
+      zh: 如果调试(debug)是去除bug的过程, 那么编程就是制造bug的过程。
+      en:
+      
+- author:
+    name:
+      zh:
+      en:
+  quotes:
+    - tags: [programming]
+      zh: 简单即是美
+      en: Simple is beautiful
+    - tags: [programming]
+      zh: 优秀的设计在不断地演化, 糟糕的设计在不断地打补丁。
+      en:
+    - tags: [programming]
+      zh: 在不同的层次审视你的设计
+      en:
+    - tags: [programming]
+      zh: 更好的工具未必能做出更好的设计
+      en:
+    - tags: [programming]
+      zh: Java与JavaScript的关系, 如同雷锋与雷峰塔的关系
+    - tags: [programming]
+      zh: 调试代码比新编写代码更困难。 因此, 如果你尽自己所能写出了最复杂的代码, 你将没有更大的智慧去调试它。
+
+
+- author:
+    name:
+      zh: Grady Booch (UML创始人之一)
+      en: Grady Booch
+  quotes:
+    - tags: [programming]
+      zh: 优秀软件的作用是让复杂的东西看起来简单
+      en: 
+    - tags: [programming]
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: C.A.R.Hoare
+  quotes:
+    - tags: [programming]
+      zh: "设计软件有两种方法: 一种是简单到极致而明显没有缺陷; 另一种是复杂到极致以至于没有明显的缺陷。前者要难得多!"
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name: 
+      zh: Ralph Johnson (设计模式四人帮之一)
+      en: Ralph Johnson
+  quotes:
+    - tags: [programming]
+      zh: 在软件'可重用'之前先得'可用'
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Michael Sinz
+  quotes:
+    - tags: [programming]
+      zh: 软件设计就像做爱, 一次犯错, 你要用余下的一生来维护。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Doug Linder
+  quotes:
+    - tags: [programming]
+      zh: 好的程序员是那种过单行道马路都要往两边看的人
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Steve McConnell (《代码大全》)
+      en: Steve McConnell
+  quotes:
+    - tags: [programming]
+      zh: 好的程序代码本身就是最好的文档
+      en: 
+    - tags: [programming]
+      zh: 要在自己的代码里找出一个bug是十分困难的。而当你认为你的代码没有错误时, 那就更难了。
+      en:
+- author:
+    name:
+      zh: 
+      en: Norm Schryer
+  quotes:
+    - tags: [programming]
+      zh: 假如程序代码和注释不一致, 那么很可能两者都是错的!
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Tom Cargill
+  quotes:
+    - tags: [programming]
+      zh: 你写下的任何代码, 在六个月以后去看的话, 都像是别人写的。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: 《SICP》
+  quotes:
+    - tags: [programming]
+      zh: 程序必须首先让人类可以理解, 然后顺便让机器能执行。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Alan Perlis
+  quotes:
+    - tags: [programming]
+      zh: 不能影响你编程观点的语言, 不值得你去学。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Bjarne Stroustrup (C++之父)
+      en: Bjarne Stroustrup
+  quotes:
+    - tags: [programming]
+      zh: "世界上只有两种编程语言: 要么充满了抱怨; 要么没人使用。"
+      en: 
+    - tags: [programming]
+      zh: (相对C而言)在C++里, 想搬起石头砸自己的脚更为困难了。 不过一旦你真这么做了, 整条腿都得报销!
+      en:
+- author:
+    name:
+      zh: 
+      en: Larry Flon
+  quotes:
+    - tags: [programming]
+      zh: 没有哪种编程语言能阻止程序员写出糟糕的代码, 不管这种语言的结构有多么好。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Dennis Ritchie (C语言之父 Unix之父)
+      en: Dennis Ritchie
+  quotes:
+    - tags: [programming]
+      zh: C语言诡异离奇, 缺陷重重, 但却获得了巨大的成功 ：)
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Snepscheut
+  quotes:
+    - tags: [programming]
+      zh: 在理论上, 理论和实践是没有差异的; 但在实践中, 是有的。
+      en: In theory, there is no difference between theory and practice. But in practice, there is.
+    - tags: []
+      zh: 
+      en:
+- author:
+    name:
+      zh: 比尔.盖茨
+      en: 
+  quotes:
+    - tags: [programming]
+      zh: 用代码行数测算软件开发进度如同按重量测算飞机的制造进度
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Edward V Berard
+  quotes:
+    - tags: [programming]
+      zh: 在水上行走和按需求文档开发软件都很容易 -- 前提是它们都处于冻结状态
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Kent Beck (Extreme Programming之父)
+      en: Kent Beck
+  quotes:
+    - tags: [programming]
+      zh: 乐观主义是软件开发的职业病, 用户反馈则是其治疗方法。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 
+      en: Rick Cook
+  quotes:
+    - tags: [programming]
+      zh: "软件开发是一场程序员和上帝的竞赛: 程序员要开发出更大更好、连傻瓜都会用的软件; 而上帝在努力创造更傻的傻瓜。 到目前为止, 一直是上帝赢。"
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Gerald Weinberg (软件工程大牛)
+      en: Gerald Weinberg
+  quotes:
+    - tags: [programming]
+      zh: 如果建筑工人像程序员写软件那样盖房子, 那第一只飞来的啄木鸟就能毁掉人类文明。
+      en: 
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Donald Knuth (算法大牛 图灵奖得主)
+      en: Donald Knuth
+  quotes:
+    - tags: [programming]
+      zh: 过早的优化是万恶之源
+      en: Premature optimization is the root of all evil.
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: Jim Gray (数据库大牛 图灵奖得主)
+      en: Jim Gray
+  quotes:
+    - tags: [programming]
+      zh: 
+      en: Tape is Dead, Disk is Tape, Flash is Disk, RAM Locality is King!
+    - tags: []
+      zh:
+      en:
