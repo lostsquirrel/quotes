@@ -24,4 +24,4 @@ jobs:
           pip install pyyaml requests
 
       - name: execute py script # run main.py
-        run: python main.py
+        run: python process.py
