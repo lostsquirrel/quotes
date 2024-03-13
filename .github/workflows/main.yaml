@@ -28,4 +28,5 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT: ${{ secrets.CF_API_TOKCF_ACCOUNTEN }}
           CF_KV_NS_ID: ${{ secrets.CF_KV_NS_ID }}
+        shell: bash
         run: python process.py
