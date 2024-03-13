@@ -24,4 +24,8 @@ jobs:
           pip install pyyaml requests
 
       - name: execute py script # run main.py
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT: ${{ secrets.CF_API_TOKCF_ACCOUNTEN }}
+          CF_KV_NS_ID: ${{ secrets.CF_KV_NS_ID }}
         run: python process.py
