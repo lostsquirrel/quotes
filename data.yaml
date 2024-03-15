@@ -300,3 +300,22 @@
     - tags: []
       zh:
       en:
+- author:
+    name:
+      zh: 纳特·弗里德曼 (GitHub 的前 CEO)
+      en: Nat Friedman
+  quotes:
+    - tags: [time]
+      zh: 一周是一年的2%
+      en: A week is 2% of the year
+    - tags: []
+      zh:
+      en:
+- author:
+    name:
+      zh: 亚历山大·查默斯，19世纪美国著名医生
+      en: Alexander Chalmers
+  quotes:
+    - tags: [happiness]
+      zh: 幸福的三大要素是：有要做的事（something to do）、有要爱的人（someone to love）、有寄予希望的东西（something to hope for）
+      en: "The three grand essentials of happiness are: something to do, someone to love, and something to hope for."
